@@ -1,0 +1,20 @@
+complete                Complete a data frame with missing combinations
+                        of data.
+expand                  Expand data frame to include all combinations
+                        of values
+extract                 Extract one column into multiple columns.
+extract_numeric         Extract numeric component of variable.
+fill                    Fill in missing values.
+gather                  Gather columns into key-value pairs.
+nest                    Nest repeated values in a list-varible.
+nest_                   Standard-evaluation version of 'nest'.
+replace_na              Replace missing values
+separate                Separate one column into multiple columns.
+seq_range               Create an evenly spaced sequence of values from
+                        lowest to highest.
+spread                  Spread a key-value pair across multiple
+                        columns.
+spread_                 Standard-evaluation version of 'spread'.
+unite                   Unite multiple columns into one.
+unnest                  Unnest a list column.
+unnest_                 Standard-evaluation version of 'unnest'.

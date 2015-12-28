@@ -1,0 +1,13 @@
+Package: rzmq
+Title: R Bindings for ZeroMQ
+Version: 0.7.7
+Maintainer: Whit Armstrong <armstrong.whit@gmail.com>
+Author: Whit Armstrong <armstrong.whit@gmail.com>
+Description: Interface to the ZeroMQ lightweight messaging kernel (see <http://www.zeromq.org/> for more information).
+License: GPL-3
+SystemRequirements: ZeroMQ >= 3.0.0 libraries and headers (see
+        <http://www.zeromq.org/>; Debian packages libzmq3, libzmq3-dev,
+        Fedora packages zeromq3, zeromq3-devel)
+URL: http://github.com/armstrtw/rzmq
+BugReports: http://github.com/armstrtw/rzmq/issues
+Built: R 3.2.0; x86_64-apple-darwin13.4.0; 2015-04-27 20:26:59 UTC; unix

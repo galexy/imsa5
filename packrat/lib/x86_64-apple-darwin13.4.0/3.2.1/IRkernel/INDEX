@@ -1,0 +1,4 @@
+IRkernel                An R kernel for IPython.
+installspec             Install the kernelspec to tell IPython (>= 3)
+                        about IRkernel
+main                    Initialise and run the kernel

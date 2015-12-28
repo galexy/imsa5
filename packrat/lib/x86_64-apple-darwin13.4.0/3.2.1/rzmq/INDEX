@@ -1,0 +1,18 @@
+bind.socket             Create an endpoint for accepting connections
+                        and bind it to the socket referenced by the
+                        socket argument.
+connect.socket          Connect the socket referenced by the socket
+                        argument to the endpoint specified by the
+                        endpoint argument.
+init.context            initailize zmq context and zmq socket
+poll.socket             Polls a list of sockets, waiting for the
+                        presence of a nonblocking read, write, or error
+                        event.
+receive.multipart       Receive multipart ZMQ message
+receive.socket          Receive a message from the socket referenced by
+                        the socket argument.
+send.multipart          Send multipart ZMQ message.
+send.socket             send a message.
+set.hwm                 set a socket option.
+zmq.errno               get libzmq error numbers and error strings
+zmq.version             get version of libzmq

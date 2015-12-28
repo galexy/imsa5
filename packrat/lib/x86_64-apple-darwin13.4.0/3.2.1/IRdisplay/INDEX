@@ -1,0 +1,12 @@
+display                 Display an object using any available reprs
+display_html            Display HTML output
+display_javascript      Display (execute) Javascript
+display_jpeg            Display JPEG output
+display_json            Display JSON
+display_latex           Display LaTeX output
+display_markdown        Display Markdown output
+display_pdf             Display PDF output
+display_png             Display PNG output
+display_svg             Display SVG output
+publish_mimebundle      Display data by mimetype, with optional
+                        alternative representations.
